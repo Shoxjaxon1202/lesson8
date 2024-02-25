@@ -1,0 +1,5 @@
+.text
+    {
+        border: 2px solid black;    /*<------ External usuli*/
+        padding: 20px 50px;
+    }
